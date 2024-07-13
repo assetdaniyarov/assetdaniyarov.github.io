@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "work_avatar.jpg"
+  avatar           : "/assets/images/work_avatar.jpg"
   name             : "Asset Daniyarov"
   bio              : "2nd year PhD student"
   location         : "Astana, Kazakhstan"
