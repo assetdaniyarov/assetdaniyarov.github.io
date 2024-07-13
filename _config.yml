@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Asset Daniyarov / Bioinformatician"
 title_separator          : "-"
-name                     : &name "Asset"
-description              : &description "personal description"
+name                     : "Asset"
+description              : "researcher"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,8 +25,8 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "2nd year PhD student"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Kazakhstan, Astana"
+  employer         : "NLA, Nazarbayev University"
   uri              : # URL
   email            : "asset.daniyarov@nu.edu.kz" 
 
