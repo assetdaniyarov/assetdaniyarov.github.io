@@ -31,14 +31,14 @@
       {% if author.employer %}
         <p class="author__employer text-center">{{ author.employer }}</p></li>
       {% endif %}
+      {% if author.email %}
+        <p class="author__email">{{ author.email }}</p></li>
+      {% endif %}
       {% if author.location %}
         <li><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
-      {% endif %}
-      {% if author.email %}
-        <p class="author__email">{{ author.email }}</p></li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
