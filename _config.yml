@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "/assets/images/work_avatar.jpg"
-  name             : "Asset Daniyarov"
+  name             : #
   bio              : "2nd year PhD student"
   location         : "Astana, Kazakhstan"
   employer         : "Nazarbayev University"
