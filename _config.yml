@@ -22,11 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Asset Daniyarov"
   bio              : "2nd year PhD student"
-  location         : "Kazakhstan, Astana"
-  employer         : "NLA, Nazarbayev University"
+  location         : "Astana, Kazakhstan"
+  employer         : "Nazarbayev University"
   uri              : # URL
   email            : "asset.daniyarov@nu.edu.kz" 
 
